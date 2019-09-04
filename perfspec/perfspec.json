@@ -40,6 +40,6 @@
     ],
     "objectives": {
         "pass": 90,
-        "warning": 75
+        "warning": 80
     }
 }
