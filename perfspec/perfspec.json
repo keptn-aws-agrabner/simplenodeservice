@@ -23,7 +23,7 @@
             "id": "FailureRate_Service",
             "source": "Dynatrace",
             "query": {
-                "timeseriesId": "com.dynatrace.builtin:service.failurerate",
+                "timeseriesId": "com.dynatrace.builtin:service.serversidefailurerate",
                 "aggregation": "AVG",
                 "startTimestamp": "",
                 "endTimestamp": ""
